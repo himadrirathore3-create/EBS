@@ -125,3 +125,9 @@ file.txt
 
 ## Outputs
 
+
+
+
+
+<img width="1150" height="333" alt="Screenshot 2026-11-06 084147" src="https://github.com/user-attachments/assets/fc179f52-6fea-4519-a702-603f09a8e7c3" />
+
