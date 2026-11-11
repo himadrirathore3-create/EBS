@@ -126,6 +126,10 @@ file.txt
 ## Outputs
 
 
+<img width="1522" height="467" alt="image" src="https://github.com/user-attachments/assets/64e76ba4-6447-4ff2-a949-d1fcd095b141" />
+<img width="1200" height="673" alt="image" src="https://github.com/user-attachments/assets/49a697f4-103d-4e0c-96de-ef4b99907aa4" />
+
+
 
 
 
